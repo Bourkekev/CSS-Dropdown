@@ -2,6 +2,4 @@
 
 Welcome Bourkekev,
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+A simple CSS only dropdown menu.
